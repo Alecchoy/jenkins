@@ -22,7 +22,7 @@
     <repository>
         <id>central</id>
         <name>alec-cent-releases</name>
-        <url>http://alec.vm:80/artifactory/test-libs-release-local</url>
+        <url>http://35.209.143.69:80/artifactory/test-libs-release-local</url>
     </repository>
   </distributionManagement>
 
